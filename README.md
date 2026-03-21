@@ -1,27 +1,11 @@
-# HackerStreetz
-# 🚑 MediResponse
 
-A smart healthcare emergency response system designed to improve ambulance dispatch, real-time tracking, and hospital coordination.
+  # MediResponse Healthcare Web App
 
-#Features
-- Multi-role system (User, Driver, Hospital, Control Room)
-- Emergency request with patient condition input
-- Live ambulance tracking with route optimization
-- Driver navigation dashboard
-- Hospital readiness system
-- Live medical assistant for first aid guidance
-- Feedback and complaint system
-- Smart hospital recommendation
+  This is a code bundle for MediResponse Healthcare Web App. The original project is available at https://www.figma.com/design/8hzj6d1XJeiDD7AKsHkMe2/MediResponse-Healthcare-Web-App.
 
-#Problem Solved
-Reduces emergency response time and improves coordination between patients, ambulance teams, and hospitals.
+  ## Running the code
 
-## 🛠 Tech Stack
-- HTML, CSS, JavaScript / React
-- Google Maps (simulated / embedded)
+  Run `npm i` to install the dependencies.
 
-## 🎨 UI Design
-Figma design link:
-[PASTE YOUR FIGMA LINK HERE]
-
-
+  Run `npm run dev` to start the development server.
+  
